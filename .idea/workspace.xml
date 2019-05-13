@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d57203f8-6d18-49dc-bbe0-eacf096454d3" name="Default" comment="flink  learnning">
-      <change afterPath="$PROJECT_DIR$/../DDstar/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/resources/dev/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/resources/dev/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/resources/pro/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/resources/test/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/App.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/bean/ChannelRealHot.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/bean/Message.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/bean/UserScan.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/map/RealHotMap.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/reduce/ChannelRealHotReduce.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/sink/ChannelRealHotSink.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/sink/ChannelRealHotTask.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/tools/GlobalConfigUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/tools/HbaseUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/tools/TimeUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/trait/DataProcess.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/DBSys/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/bean/UserBrowse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/controller/APPStart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/controller/KafkaProducerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/controller/ReportApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/msg/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/msg/SendMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/upload/UserBrowseRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DDstar/report/src/test/java/com/ddstar/report/ReportApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DDstar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DDstar/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/report/target/" />
@@ -199,10 +158,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="668" />
-    <option name="y" value="103" />
+    <option name="x" value="825" />
+    <option name="y" value="158" />
     <option name="width" value="1628" />
-    <option name="height" value="896" />
+    <option name="height" value="880" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -481,15 +440,24 @@
       <workItem from="1557460717471" duration="7933000" />
       <workItem from="1557477264968" duration="764000" />
       <workItem from="1557709914467" duration="12000" />
-      <workItem from="1557712660997" duration="7640000" />
+      <workItem from="1557712660997" duration="8241000" />
     </task>
+    <task id="LOCAL-00001" summary="flink  learnning">
+      <created>1557727534304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557727534304</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58724000" />
+    <option name="totallyTimeSpent" value="59325000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="668" y="103" width="1628" height="896" extended-state="0" />
+    <frame x="825" y="158" width="1628" height="880" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -503,7 +471,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39322916" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.09287532" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.44020355" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
@@ -511,7 +479,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35539216" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.6323155" />
       <window_info active="true" content_ui="combo" x="851" y="297" width="407" height="446" id="Project" order="0" visible="true" weight="0.22332506" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
