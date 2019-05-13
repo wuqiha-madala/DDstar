@@ -15,25 +15,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChannelUserFreshnessTask.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/task/ChannelUserFreshnessTask.scala">
+      <file leaf-file-name="UserBrowse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/bean/UserBrowse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            <state relative-caret-position="81">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="APPStart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/controller/APPStart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
               <folding>
-                <element signature="e#13#39#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserNetworkTask.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/task/UserNetworkTask.scala">
+      <file leaf-file-name="DataProcess.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/trait/DataProcess.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+            <state relative-caret-position="27">
+              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
               <folding>
-                <element signature="e#14#40#0" expanded="true" />
+                <element signature="e#16#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,9 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ActualProcess/src/main/scala/trait/DataProcess.scala" />
-        <option value="$PROJECT_DIR$/ActualProcess/src/main/scala/sink/ChannelRealHotTask.scala" />
-        <option value="$PROJECT_DIR$/ActualProcess/src/main/scala/sink/ChannelRealHotSink.scala" />
         <option value="$PROJECT_DIR$/report/src/main/java/com/ddstar/report/controller/ReportApplication.java" />
         <option value="$PROJECT_DIR$/report/src/main/java/com/ddstar/report/msg/SendMessage.java" />
         <option value="$PROJECT_DIR$/ActualProcess/src/main/resources/dev/application.conf" />
@@ -107,6 +113,9 @@
         <option value="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/task/UserBrowserTask.scala" />
         <option value="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/task/ChannelUserFreshnessTask.scala" />
         <option value="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/task/UserNetworkTask.scala" />
+        <option value="$PROJECT_DIR$/../DDstar/DBSys/pom.xml" />
+        <option value="$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/controller/APPStart.java" />
+        <option value="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/trait/DataProcess.scala" />
       </list>
     </option>
   </component>
@@ -119,9 +128,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="312" />
-    <option name="y" value="197" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="176" />
+    <option name="y" value="186" />
     <option name="width" value="1628" />
     <option name="height" value="823" />
   </component>
@@ -202,15 +211,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="tools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -228,6 +228,86 @@
               <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="DBSys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="DBSys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="DBSys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="DBSys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -385,7 +465,7 @@
       <workItem from="1557477264968" duration="764000" />
       <workItem from="1557709914467" duration="12000" />
       <workItem from="1557712660997" duration="9339000" />
-      <workItem from="1557729339437" duration="3864000" />
+      <workItem from="1557729339437" duration="4776000" />
     </task>
     <task id="LOCAL-00001" summary="flink  learnning">
       <created>1557727534304</created>
@@ -405,10 +485,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64287000" />
+    <option name="totallyTimeSpent" value="65199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="463" y="119" width="1628" height="823" extended-state="0" />
+    <frame x="176" y="186" width="1628" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -496,20 +576,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/controller/KafkaProducerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="50" column="24" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DDstar/report/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/msg/SendMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -538,16 +604,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-257">
           <caret line="12" column="58" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/controller/APPStart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -894,17 +950,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/trait/DataProcess.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/task/UserBrowserTask.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#14#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DDstar/DBSys/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/task/UserNetworkTask.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
           <folding>
             <element signature="e#14#40#0" expanded="true" />
           </folding>
@@ -921,12 +987,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/task/UserNetworkTask.scala">
+    <entry file="file://$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/bean/UserBrowse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        <state relative-caret-position="81">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/controller/APPStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
           <folding>
-            <element signature="e#14#40#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/trait/DataProcess.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <folding>
+            <element signature="e#16#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
