@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d57203f8-6d18-49dc-bbe0-eacf096454d3" name="Default" comment="flink  learnning">
-      <change beforePath="$PROJECT_DIR$/../DDstar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DDstar/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d57203f8-6d18-49dc-bbe0-eacf096454d3" name="Default" comment="flink  learnning" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/report/target/" />
     <ignored path="$PROJECT_DIR$/DBSys/target/" />
@@ -158,10 +156,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="825" />
-    <option name="y" value="158" />
+    <option name="x" value="573" />
+    <option name="y" value="216" />
     <option name="width" value="1628" />
-    <option name="height" value="880" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -440,7 +438,7 @@
       <workItem from="1557460717471" duration="7933000" />
       <workItem from="1557477264968" duration="764000" />
       <workItem from="1557709914467" duration="12000" />
-      <workItem from="1557712660997" duration="8241000" />
+      <workItem from="1557712660997" duration="8823000" />
     </task>
     <task id="LOCAL-00001" summary="flink  learnning">
       <created>1557727534304</created>
@@ -453,10 +451,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59325000" />
+    <option name="totallyTimeSpent" value="59907000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="825" y="158" width="1628" height="880" extended-state="0" />
+    <frame x="296" y="199" width="1628" height="878" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
