@@ -36,13 +36,148 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataProcess.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataProcess.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/trait/DataProcess.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="27">
-              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
               <folding>
                 <element signature="e#16#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CanalClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../DDstar/DBSys/src/main/java/CanalClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="105" column="22" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#128#165#1" expanded="true" />
+                <element signature="e#174#226#1" expanded="true" />
+                <element signature="e#235#280#1" expanded="true" />
+                <element signature="e#289#334#1" expanded="true" />
+                <element signature="e#343#388#1" expanded="true" />
+                <element signature="e#397#473#1" expanded="true" />
+                <element signature="e#522#544#1" expanded="true" />
+                <element signature="e#553#572#1" expanded="true" />
+                <element signature="e#642#651#0" expanded="true" />
+                <element signature="e#697#719#0" expanded="true" />
+                <element signature="e#811#859#1" expanded="true" />
+                <element signature="e#876#902#1" expanded="true" />
+                <element signature="e#886#901#0" expanded="true" />
+                <element signature="e#919#958#1" expanded="true" />
+                <element signature="e#930#950#0" expanded="true" />
+                <element signature="e#1125#1145#0" expanded="true" />
+                <element signature="e#1452#1474#0" expanded="true" />
+                <element signature="e#1541#1561#0" expanded="true" />
+                <element signature="e#1626#1646#0" expanded="true" />
+                <element signature="e#1776#1815#1" expanded="true" />
+                <element signature="e#1892#1913#0" expanded="true" />
+                <element signature="e#2064#2122#0" expanded="true" />
+                <element signature="e#2097#2121#0" expanded="true" />
+                <element signature="e#2165#2221#0" expanded="true" />
+                <element signature="e#2186#2203#0" expanded="true" />
+                <element signature="e#2186#2220#0" expanded="true" />
+                <element signature="e#2253#2311#0" expanded="true" />
+                <element signature="e#2274#2291#0" expanded="true" />
+                <element signature="e#2274#2310#0" expanded="true" />
+                <element signature="e#2341#2391#0" expanded="true" />
+                <element signature="e#2357#2374#0" expanded="true" />
+                <element signature="e#2357#2390#0" expanded="true" />
+                <element signature="e#2419#2471#0" expanded="true" />
+                <element signature="e#2438#2455#0" expanded="true" />
+                <element signature="e#2438#2470#0" expanded="true" />
+                <element signature="e#2575#2601#0" expanded="true" />
+                <element signature="e#2604#2631#0" expanded="true" />
+                <element signature="e#2757#2787#0" expanded="true" />
+                <element signature="e#2996#3025#0" expanded="true" />
+                <element signature="e#3188#3217#0" expanded="true" />
+                <element signature="e#3617#3662#1" expanded="true" />
+                <element signature="e#4049#4072#0" expanded="true" />
+                <element signature="e#3651#3659#0" expanded="true" />
+                <element signature="e#3675#3699#0" expanded="true" />
+                <element signature="e#3722#3767#1" expanded="true" />
+                <element signature="e#4154#4177#0" expanded="true" />
+                <element signature="e#3756#3764#0" expanded="true" />
+                <element signature="e#4101#4128#0" expanded="true" />
+                <element signature="e#3790#3806#0" expanded="true" />
+                <element signature="e#4101#4128#0" expanded="true" />
+                <element signature="e#4152#4180#0" expanded="true" />
+                <element signature="e#3841#3858#0" expanded="true" />
+                <element signature="e#4152#4180#0" expanded="true" />
+                <element signature="e#4205#4235#0" expanded="true" />
+                <element signature="e#3894#3913#0" expanded="true" />
+                <element signature="e#4205#4235#0" expanded="true" />
+                <element signature="e#4269#4285#0" expanded="true" />
+                <element signature="e#4269#4285#0" expanded="true" />
+                <element signature="e#4011#4053#1" expanded="true" />
+                <element signature="e#4062#4218#1" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4397#4538#0" expanded="true" />
+                <element signature="e#4460#4592#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataExtraction.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../DDstar/DBSys/src/main/scala/DataExtraction.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GlobalConfigUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../DDstar/DBSys/src/main/java/GlobalConfigUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#695#753#0" expanded="true" />
+                <element signature="e#695#753#0" expanded="true" />
+                <element signature="e#695#753#0" expanded="true" />
+                <element signature="e#695#753#0" expanded="true" />
+                <element signature="e#695#753#0" expanded="true" />
+                <element signature="e#695#753#0" expanded="true" />
+                <element signature="e#695#753#0" expanded="true" />
+                <element signature="e#695#753#0" expanded="true" />
+                <element signature="e#695#753#0" expanded="true" />
+                <element signature="e#695#753#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KafkaSend.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../DDstar/DBSys/src/main/java/KafkaSend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#272#325#1" expanded="true" />
+                <element signature="e#482#523#1" expanded="true" />
+                <element signature="e#697#726#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,8 +188,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Scala Script" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,10 +200,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/report/src/main/java/com/ddstar/report/controller/ReportApplication.java" />
-        <option value="$PROJECT_DIR$/report/src/main/java/com/ddstar/report/msg/SendMessage.java" />
-        <option value="$PROJECT_DIR$/ActualProcess/src/main/resources/dev/application.conf" />
-        <option value="$PROJECT_DIR$/ActualProcess/src/main/resources/pro/log4j.properties" />
         <option value="$PROJECT_DIR$/ActualProcess/src/main/resources/dev/log4j.properties" />
         <option value="$PROJECT_DIR$/ActualProcess/src/main/resources/test/log4j.properties" />
         <option value="$PROJECT_DIR$/ActualProcess/src/main/scala/App.scala" />
@@ -116,6 +247,10 @@
         <option value="$PROJECT_DIR$/../DDstar/DBSys/pom.xml" />
         <option value="$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/controller/APPStart.java" />
         <option value="$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/trait/DataProcess.scala" />
+        <option value="$PROJECT_DIR$/../DDstar/DBSys/src/main/java/CanalClient.java" />
+        <option value="$PROJECT_DIR$/../DDstar/DBSys/src/main/java/KafkaSend.java" />
+        <option value="$PROJECT_DIR$/../DDstar/DBSys/src/main/java/GlobalConfigUtils.java" />
+        <option value="$PROJECT_DIR$/../DDstar/DBSys/src/main/scala/DataExtraction.scala" />
       </list>
     </option>
   </component>
@@ -128,9 +263,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="176" />
-    <option name="y" value="186" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="226" />
+    <option name="y" value="132" />
     <option name="width" value="1628" />
     <option name="height" value="823" />
   </component>
@@ -155,79 +290,7 @@
             <path>
               <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
               <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="sink" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="trait" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="ActualProcess" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="${project.basedir}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
@@ -246,6 +309,14 @@
               <item name="DBSys" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
+              <item name="DBSys" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
@@ -253,61 +324,6 @@
               <item name="DBSys" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DDstar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DDstar" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -330,7 +346,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33448276" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -465,7 +481,7 @@
       <workItem from="1557477264968" duration="764000" />
       <workItem from="1557709914467" duration="12000" />
       <workItem from="1557712660997" duration="9339000" />
-      <workItem from="1557729339437" duration="4776000" />
+      <workItem from="1557729339437" duration="6071000" />
     </task>
     <task id="LOCAL-00001" summary="flink  learnning">
       <created>1557727534304</created>
@@ -485,10 +501,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65199000" />
+    <option name="totallyTimeSpent" value="66494000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="176" y="186" width="1628" height="823" extended-state="0" />
+    <frame x="226" y="132" width="1628" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -576,37 +592,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/msg/SendMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DDstar/report/src/main/java/com/ddstar/report/controller/ReportApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="40" column="33" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/bean/UserScan.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/tools/GlobalConfigUtils.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-257">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="51" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.6.0/flink-core-1.6.0.jar!/org/apache/flink/api/common/typeutils/TypeSerializerSerializationUtil.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6">
@@ -639,6 +624,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#17#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -653,6 +641,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#15#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1007,9 +998,136 @@
     <entry file="file://$PROJECT_DIR$/../DDstar/ActualProcess/src/main/scala/trait/DataProcess.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding>
             <element signature="e#16#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DDstar/DBSys/src/main/java/GlobalConfigUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#695#753#0" expanded="true" />
+            <element signature="e#695#753#0" expanded="true" />
+            <element signature="e#695#753#0" expanded="true" />
+            <element signature="e#695#753#0" expanded="true" />
+            <element signature="e#695#753#0" expanded="true" />
+            <element signature="e#695#753#0" expanded="true" />
+            <element signature="e#695#753#0" expanded="true" />
+            <element signature="e#695#753#0" expanded="true" />
+            <element signature="e#695#753#0" expanded="true" />
+            <element signature="e#695#753#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DDstar/DBSys/src/main/java/KafkaSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#272#325#1" expanded="true" />
+            <element signature="e#482#523#1" expanded="true" />
+            <element signature="e#697#726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DDstar/DBSys/src/main/java/CanalClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="105" column="22" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#128#165#1" expanded="true" />
+            <element signature="e#174#226#1" expanded="true" />
+            <element signature="e#235#280#1" expanded="true" />
+            <element signature="e#289#334#1" expanded="true" />
+            <element signature="e#343#388#1" expanded="true" />
+            <element signature="e#397#473#1" expanded="true" />
+            <element signature="e#522#544#1" expanded="true" />
+            <element signature="e#553#572#1" expanded="true" />
+            <element signature="e#642#651#0" expanded="true" />
+            <element signature="e#697#719#0" expanded="true" />
+            <element signature="e#811#859#1" expanded="true" />
+            <element signature="e#876#902#1" expanded="true" />
+            <element signature="e#886#901#0" expanded="true" />
+            <element signature="e#919#958#1" expanded="true" />
+            <element signature="e#930#950#0" expanded="true" />
+            <element signature="e#1125#1145#0" expanded="true" />
+            <element signature="e#1452#1474#0" expanded="true" />
+            <element signature="e#1541#1561#0" expanded="true" />
+            <element signature="e#1626#1646#0" expanded="true" />
+            <element signature="e#1776#1815#1" expanded="true" />
+            <element signature="e#1892#1913#0" expanded="true" />
+            <element signature="e#2064#2122#0" expanded="true" />
+            <element signature="e#2097#2121#0" expanded="true" />
+            <element signature="e#2165#2221#0" expanded="true" />
+            <element signature="e#2186#2203#0" expanded="true" />
+            <element signature="e#2186#2220#0" expanded="true" />
+            <element signature="e#2253#2311#0" expanded="true" />
+            <element signature="e#2274#2291#0" expanded="true" />
+            <element signature="e#2274#2310#0" expanded="true" />
+            <element signature="e#2341#2391#0" expanded="true" />
+            <element signature="e#2357#2374#0" expanded="true" />
+            <element signature="e#2357#2390#0" expanded="true" />
+            <element signature="e#2419#2471#0" expanded="true" />
+            <element signature="e#2438#2455#0" expanded="true" />
+            <element signature="e#2438#2470#0" expanded="true" />
+            <element signature="e#2575#2601#0" expanded="true" />
+            <element signature="e#2604#2631#0" expanded="true" />
+            <element signature="e#2757#2787#0" expanded="true" />
+            <element signature="e#2996#3025#0" expanded="true" />
+            <element signature="e#3188#3217#0" expanded="true" />
+            <element signature="e#3617#3662#1" expanded="true" />
+            <element signature="e#4049#4072#0" expanded="true" />
+            <element signature="e#3651#3659#0" expanded="true" />
+            <element signature="e#3675#3699#0" expanded="true" />
+            <element signature="e#3722#3767#1" expanded="true" />
+            <element signature="e#4154#4177#0" expanded="true" />
+            <element signature="e#3756#3764#0" expanded="true" />
+            <element signature="e#4101#4128#0" expanded="true" />
+            <element signature="e#3790#3806#0" expanded="true" />
+            <element signature="e#4101#4128#0" expanded="true" />
+            <element signature="e#4152#4180#0" expanded="true" />
+            <element signature="e#3841#3858#0" expanded="true" />
+            <element signature="e#4152#4180#0" expanded="true" />
+            <element signature="e#4205#4235#0" expanded="true" />
+            <element signature="e#3894#3913#0" expanded="true" />
+            <element signature="e#4205#4235#0" expanded="true" />
+            <element signature="e#4269#4285#0" expanded="true" />
+            <element signature="e#4269#4285#0" expanded="true" />
+            <element signature="e#4011#4053#1" expanded="true" />
+            <element signature="e#4062#4218#1" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4397#4538#0" expanded="true" />
+            <element signature="e#4460#4592#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DDstar/DBSys/src/main/scala/DataExtraction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1023,7 +1141,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.33448276" />
               </list>
             </option>
           </splitter-proportions>
@@ -1035,7 +1153,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.33448276" />
               </list>
             </option>
           </splitter-proportions>
@@ -1043,11 +1161,11 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.11.8</last-edited>
+          <last-edited>scala-sdk-2.11.81</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.33448276" />
               </list>
             </option>
           </splitter-proportions>
@@ -1059,7 +1177,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.33448276" />
               </list>
             </option>
           </splitter-proportions>
@@ -1067,7 +1185,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ActualProcess</last-edited>
+          <last-edited>DBSys</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
