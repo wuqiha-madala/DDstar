@@ -12,7 +12,7 @@ import org.apache.flink.streaming.connectors.kafka.FlinkKafkaConsumer09
 import org.apache.flink.api.scala._
 import org.apache.flink.streaming.api.functions.AssignerWithPeriodicWatermarks
 import org.apache.flink.streaming.api.watermark.Watermark
-import sink.ChannelRealHotTask
+import task.ChannelRealHotTask
 import tools.GlobalConfigUtils
 
 /**

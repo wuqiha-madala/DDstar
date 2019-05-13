@@ -1,13 +1,14 @@
-package sink
+package task
+
 import `trait`.DataProcess
 import bean.{ChannelRealHot, Message}
 import map.RealHotMap
-import org.apache.flink.api.common.functions.FlatMapFunction
+import org.apache.flink.api.scala._
 import org.apache.flink.streaming.api.scala.{DataStream, KeyedStream, WindowedStream}
 import org.apache.flink.streaming.api.windowing.time.Time
 import org.apache.flink.streaming.api.windowing.windows.TimeWindow
-import org.apache.flink.api.scala._
 import reduce.ChannelRealHotReduce
+import sink.ChannelRealHotSink
 /**
   * Created by Liutao on 2019/5/9 10:17
   */
